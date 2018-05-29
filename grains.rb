@@ -1,5 +1,3 @@
-require 'pry'
-
 class Grains
   def self.square(num)
     if num == 0 || num < 0 || num > 64
